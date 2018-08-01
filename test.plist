@@ -1,1 +1,43 @@
-aaaa
+<？xml version =“1.0”encoding =“UTF-8”？>
+<！DOCTYPE plist PUBLIC“ -  // Apple // DTD PLIST 1.0 // EN”“ http://www.apple.com/DTDs/PropertyList-1.0.dtd ”>
+<plist version =“1.0”>
+<字典>
+	<键>项</键>
+	<阵列>
+		<字典>
+			<键>资产</键>
+			<阵列>
+				<字典>
+					<键>样</键>
+					<字符串>软件封装</字符串>
+					<键>网址</键>
+					<string> https://down.dsu03.com/enterprise/gamecenter.ipa </string >
+				</字典>
+				<字典>
+					<键>样</键>
+					<字符串>显示图像</字符串>
+					<键>网址</键>
+					<string> https://down.dsu03.com/enterprise/57.png </string >
+				</字典>
+				<字典>
+					<键>样</键>
+					<字符串>全尺寸图像</字符串>
+					<键>网址</键>
+					<string> https://down.dsu03.com/enterprise/512.png </string >
+				</字典>
+			</阵列>
+			<键>元数据</键>
+			<字典>
+				<键>束标识符</键>
+				<字符串> com.huoying.nnn </字符串>
+				<键>束的版本</键>
+				<字符串> 3.9.2 </字符串>
+				<键>样</键>
+				<字符串>软件</字符串>
+				<键>标题</键>
+				<字符串>火萤棋牌</字符串>
+			</字典>
+		</字典>
+	</阵列>
+</字典>
+</ plist中>
